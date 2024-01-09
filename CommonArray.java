@@ -1,5 +1,5 @@
 //Michael, Steven, Joseph
-public class CommonArray {//The class
+public class CommonArray {//The class for problem 4
     public static boolean even(int[] number){//go through the array and determine if there is odd number
         int pos=0;
         while(pos!=number.length){
